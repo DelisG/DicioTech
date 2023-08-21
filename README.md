@@ -26,5 +26,5 @@ Para o gerenciamento do projeto, realizamos uma análise SWOT, identificando os 
 
 ## Acesse a Documentação Tecnica
 
-[**Back End**](./backEnd/README.md) <br>
-[**Front End**](./frontEnd/README.md)
+[**Back End**](docBackEnd.md) <br>
+[**Front End**](docFrontEnd.md)
